@@ -5,7 +5,7 @@
 </p>
 Я занимаюсь разработкой программного обеспечения и реализацией различных геологических проектов.
 <h3 align="left">🔥   Моя статистика:</h3>
-![Статистика по литокоду](https://leetcard.jacoblin.cool/JacobLinCool)
+![LeetCode Stats](https://leetcard.jacoblin.cool/well016?theme=wtf&font=Julee&ext=activity)
 <div align="center">
   <img src="https://www.codewars.com/users/well016/badges/small" height="100" alt="streak graph"  />
 </div>
