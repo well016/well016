@@ -1,14 +1,5 @@
-<h1 align="center">👋 Привет, Я Раиль </h1>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-Я занимаюсь разработкой программного обеспечения и реализацией различных геологических проектов.
-<h3 align="left">🔥   Моя статистика:</h3>
-<div align="center">
-  <img src="https://www.codewars.com/users/well016/badges/small" height="100" alt="streak graph"  />
-</div>
-# LeetCode Stats Card
+
 
 
 
