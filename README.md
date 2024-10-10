@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://www.codewars.com/users/well016/badges/small" height="100" alt="streak graph"  />
 </div>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/well016?theme=wtf&font=Julee&ext=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/well016?theme=wtf&font=Julee&ext=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
 
 ###
 ## 📚 Мои основные навыки:
