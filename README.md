@@ -7,7 +7,7 @@
 <h3 align="left">🔥   Моя статистика:</h3>
 
 <div align="center">
-  <img src="[https://www.codewars.com/users/well016/badges/large](https://www.codewars.com/users/well016/badges/smal)" height="100" alt="streak graph"  />
+  <img src="https://www.codewars.com/users/well016/badges/smal" height="100" alt="streak graph"  />
 </div>
 
 ###
