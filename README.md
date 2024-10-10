@@ -9,7 +9,7 @@
   <img src="https://www.codewars.com/users/well016/badges/small" height="150" alt="streak graph"  />
 </div>
 <div align="left">
-  <img src="https://leetcard.jacoblin.cool/well016?theme=wtf&font=Noto%20Serif" height="300" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/well016?theme=wtf&font=Noto%20Serif" height="200" alt="streak graph"  />
 </div>
   
 
