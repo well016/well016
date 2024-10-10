@@ -4,8 +4,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 Я занимаюсь разработкой программного обеспечения и реализацией различных геологических проектов.
-<h3 align="left">🔥   Моя статистика :</h3>
-###
+<h3 align="left">🔥   Моя статистика:</h3>
 
 <div align="center">
   <img src="https://www.codewars.com/users/well016/badges/large" height="220" alt="streak graph"  />
