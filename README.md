@@ -18,6 +18,11 @@
 - **Языки программирования:** Python, SQL, HTLM, CSS
 - **Фреймворки и библиотеки:** Qt,lasio
 - **Базы данных:** PostgreSQL, MySQL
+  
+<p align="center"> 
+  Кол-во посетителей<br>
+  <img src="https://profile-counter.glitch.me/well016/count.svg" />
+</p>
 
 ## 📈 Мои недавние проекты:
 - [LasMaster](https://github.com/well016/LasMaster)-программа для анализа и интерпретации данных каротажа
